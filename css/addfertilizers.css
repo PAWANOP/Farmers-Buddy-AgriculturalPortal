@@ -1,0 +1,112 @@
+#addfertlizers{
+  position: absolute;
+  top: 63%;
+  left: 15%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+form{
+  margin: 10px 10px;
+}
+
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#addfertilizers-button{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#addfertilizers-button input{
+  margin:  0  8px;
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+}
+
+#addfertilizers-button input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}
+
+#Used-Fertilizers-For-Crops{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 4px;
+}
+
+#Used-Fertilizers-For-State{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 10px;
+}
+
+#Used-Fertilizers-For-Year{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 15px
+}
+ 
+
+#Cost-of-Fertilizers{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 66px
+}
+
+#Use-Fertilizers-For-Heactor{
+  outline: none;
+  border: none;
+  padding: 4px;
+  /* margin-left: 5px */
+}
+
+#Coffee-Creamerk20{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 42px
+}
+
+#PhosporousP205{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 58px
+}
+
+#Nitrogen-N{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 109px
+}
+
+#Crops-Name-fert{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 104px
+}
+
+#Type-addfert{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 160px
+}
+
+#SoilName-addfert{
+  outline: none;
+  border: none;
+  padding: 4px;
+  margin-left: 120px
+}

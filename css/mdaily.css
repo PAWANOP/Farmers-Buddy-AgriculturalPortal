@@ -1,0 +1,14 @@
+.center{
+  margin-top: 380px;
+  border-color: green;
+}
+
+td{color: red;
+  text-align: center;
+}
+
+th{
+  
+  padding: 4px;
+  text-align: center;
+}

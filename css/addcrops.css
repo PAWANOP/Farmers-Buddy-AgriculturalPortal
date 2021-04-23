@@ -1,0 +1,65 @@
+#addcrops{
+  position: absolute;
+  top: 53%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+
+form{
+  margin: 10px 10px;
+}
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#submit-button{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#submit-button input{
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+}
+
+#submit-button input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}
+
+#SoialNames{
+  margin-left: 20px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#typename{
+  margin-left: 64px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#Cropname{
+  margin-left: 16px;
+  outline: none;
+  border: none;
+  padding: 4px;
+
+}
+
+#Seasons{
+  margin-left: 44px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#soilname,#type,#cropsname,#Season{
+  margin: 10px 0;
+}

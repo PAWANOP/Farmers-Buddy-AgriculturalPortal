@@ -1,0 +1,111 @@
+#storemarketdeatails{
+  position: absolute;
+  top: 56%;
+  left: 16%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+  
+
+form{
+  margin: 10px 10px;
+}
+
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#submit-button-storemarketdetails{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#submit-button-storemarketdetails input{
+  cursor: pointer;
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+}
+
+#submit-button-storemarketdetails input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}
+
+#Unitof-Arriavals-detail{
+  margin-left: 30px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#Arriaval-Dates-detail{
+  margin-left: 49px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#Market-details{
+  margin-left: 94px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#Arrivals{
+  margin-left: 89px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#comm-details{
+  margin-left: 60px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#arriavls-detail,#unitofarrivals,#ArriavalDate-detail,#variety-detail,#grade-detail,#MinimumPrice-detail,#MaximumPrice-detail,#modelprice-detail,#Unitofprice-detail{
+  margin-bottom: 10px;
+}
+
+#storemarketdeatail{
+  margin-bottom: 10px;
+}
+#varietys-detail{
+  margin-left: 93px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+#Grades-detail{
+  margin-left: 96px;
+}
+#Minimum-Prices{
+  margin-left: 36px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#Maximum-Prices{
+  margin-left: 31px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#Model-Prices{
+  margin-left: 56px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#Unit-of-Prices{
+  margin-left: 54px;
+  outline: none;
+  border: none;
+  padding: 4px
+}

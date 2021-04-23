@@ -1,0 +1,53 @@
+#viewtrainings{
+  text-align: center;
+}
+#viewtrainings input{
+  font-weight: bold;
+  cursor: pointer;
+  width: 5%;
+  cursor: pointer;
+  transition: 0.6s;
+  font-size: 5px;
+  padding: 5px;
+  border: 1px solid rgb(218, 67, 7);
+  text-decoration: none;
+  margin: 0 8px;
+  background: rgb(224, 224, 224);
+}
+
+#viewtrainings input:hover{
+  border: yellow 1px solid;
+  background-color: rgba(136, 206, 56, 0.755);
+}
+form{
+  margin-top: 30px;
+}
+#tablebox{
+  width: 30%;
+margin-top: 133px;
+margin-left: 180px;
+}
+.center{
+  border-color: green;
+  border-width: 3px;
+  /* margin: 0 auto 50px auto; */
+}
+tr{
+  text-align: center;
+}
+
+th{
+  padding: 2px;
+  text-align: center;
+}
+
+td{
+  padding: 6px;
+  color: rgb(208, 80, 34);
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  color: green;
+}

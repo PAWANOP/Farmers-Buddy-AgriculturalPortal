@@ -1,0 +1,48 @@
+#updatesoil-name{
+  position: absolute;
+  top: 53%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+h2{
+  margin-left: 9.5em;
+  margin-top: 8rem;
+}
+form{
+  margin: 20px 20px;
+}
+
+#button-update-soil{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#button-update-soil input{
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: 0.6s;
+  font-size: 5px;
+  padding: 4px;
+  border: 1px solid yellow;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+#button-update-soil input:hover{
+  color: rgb(4, 5, 5);
+  background-color: yellow;
+}
+
+
+
+#checkbox{
+  margin: 3px;
+}
+
+td{
+  padding: 0px 30px;
+}
+

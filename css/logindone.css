@@ -1,0 +1,47 @@
+#front-page{
+  display: flex;
+  width: 100%;
+}
+
+#first h1{
+ color: black;
+ font-weight: 500;
+}
+
+#first {
+  margin-top: 150px;
+  width: 100%;
+  margin-left: 290px;
+}
+#second img{
+  width: 620px;
+}
+#first  h1{
+  font-size: 38px;
+  width: 380px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+#first a{
+  border: 2px solid green;
+  transition: 0.5s;
+  border-radius: 20px;
+  background-color: rgb(241, 241, 241);
+  text-decoration: none;
+  padding: 10px 14px;
+  color: rgb(22, 22, 22);
+  margin-left: 133px;
+}
+
+
+#first a:hover{
+   background: rgb(14, 172, 14);
+   border-color: lightgreen;
+   color: white;
+}
+button{
+  outline: none;
+}
+.w3-display-left{
+  margin-left: 895px;
+}

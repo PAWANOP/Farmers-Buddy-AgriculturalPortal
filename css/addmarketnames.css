@@ -1,0 +1,65 @@
+#addmarketnames{
+  position: absolute;
+  top: 53%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+
+form{
+  margin: 10px 10px;
+}
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+
+#submit-button-add{
+  margin: 20px 0;
+  text-align: center;
+}
+
+
+#submit-button-add input{
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+}
+
+#submit-button-add input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}
+
+#addmarket{
+  margin-left: 65px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+
+#Districtnames{
+  margin-left: 54px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#addmarket-state{
+  margin-bottom: 10px;
+}
+
+#Marketarea{
+  margin-left: 16px;
+  outline: none;
+  border: none;
+  padding: 4px;
+}
+
+#Marketareas{
+  margin: 10px 0;
+}

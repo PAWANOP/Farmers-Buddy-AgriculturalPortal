@@ -1,0 +1,10 @@
+#welcome{
+  position: absolute;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+#welcome h1{
+  color: rgb(0, 72, 0);
+}

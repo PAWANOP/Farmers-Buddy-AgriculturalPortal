@@ -1,0 +1,78 @@
+#requestfortrainings{
+  position: absolute;
+  top: 53%;
+  left: 17%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+
+form{
+  margin: 10px 10px;
+}
+
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#request-name{
+  margin-bottom: 18px;
+}
+
+#request-placename{
+  padding: 4px;
+  outline: none;
+  border: none;
+  margin-left: 86px;
+}
+
+#request-placerole{
+  padding: 4px;
+  outline: none;
+  border: none;
+  margin-left: 96px;
+}
+
+#request-placeplace{
+  padding: 4px;
+  outline: none;
+  border: none;
+  margin-left: 90px;
+}
+#request-placetitle{
+  padding: 4px;
+  outline: none;
+  border: none;
+  margin-left: 100px;
+}
+#request-placedesc{
+  padding: 4px;
+  outline: none;
+  border: none;
+  margin-left: 50px;
+}
+
+#request-placesched{
+  padding: 4px;
+  outline: none;
+  border: none;
+}
+
+#request-buton{
+  text-align: center;
+  margin-bottom: 18px;
+}
+#request-buton input{
+  cursor: pointer;
+  font-size: 5px;
+  padding: 5px;
+  margin: 0 4px;
+  border: 1px solid yellow;
+  text-decoration: none;
+}
+
+#request-buton input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}

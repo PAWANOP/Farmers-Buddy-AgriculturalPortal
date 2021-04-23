@@ -1,0 +1,60 @@
+#change-password{
+  position: absolute;
+  top: 53%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+
+
+form{
+  margin: 10px 10px;
+}
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#change-password-username,#old-password,#New-password{
+  margin-bottom: 18px;
+}
+
+#changepassword{
+  margin-left: 65px;
+  padding: 4px;
+  border: none;
+  outline: none;
+}
+
+#oldpassword{
+  margin-left: 47px;
+  padding: 4px;
+  border: none;
+  outline: none;
+}
+
+#newpassword{
+  margin-left: 39px;
+  padding: 4px;
+  border: none;
+  outline: none;
+}
+
+#change-passoword-button{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#change-passoword-button input{
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+#change-passoword-button input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}

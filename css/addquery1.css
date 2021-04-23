@@ -1,0 +1,51 @@
+#addquery1{
+  position: absolute;
+  top: 53%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+  border: 1px solid goldenrod;
+  background: rgb(59, 223, 59);
+}
+
+form{
+  margin: 10px 10px;
+}
+label{
+  color: black;
+  font-weight: lighter;
+}
+
+#Your-Name{
+outline: none;
+border: none;
+padding: 4px;
+margin-left: 37px;
+}
+
+#Post-Your-Query{
+  outline: none;
+border: none;
+padding: 4px;
+}
+
+#addquery-1-button{
+  margin: 20px 0;
+  text-align: center;
+}
+
+#addquery-1-button input{
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin:  0  8px;
+  transition: 0.4s;
+  padding: 5px;
+  border: 1px solid yellow;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+#addquery-1-button input:hover{
+  color: rgb(1, 193, 29);
+  background-color: yellow;
+}
